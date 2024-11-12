@@ -1,9 +1,7 @@
 ### Olá, Eu sou a Josefa Monteiro. 
 
 
-- 🔭 Actualmente backend developer na Globalsys Solucões em ti ...
-- 🌱 Co-organizadora do Women techmarker Luanda
-- 🌱 Actualmente produzindo conteudo para o youtube
+- 🔭 Actualmente backend developer ...
 - ⚡ Fun fact: ...
 
 <div align="center">
