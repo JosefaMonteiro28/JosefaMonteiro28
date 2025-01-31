@@ -1,7 +1,7 @@
 ### Olá, Eu sou a Josefa Monteiro. 
 
 
-- 🔭 Actualmente backend developer ...
+- 🔭 Actualmente backend developer
 - ⚡ Fun fact: ...
 
 <div align="center">
